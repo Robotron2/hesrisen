@@ -1,0 +1,47 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body {
+	background-color: rgb(186, 157, 212);
+	/* background-color: purple; */
+}
+
+.t-blue {
+	color: blue;
+}
+.o-red {
+	color: red;
+}
+.m-yellow {
+	color: yellow;
+}
+.b-green {
+	color: green;
+}
+
+.search i {
+	position: absolute;
+	top: 20%;
+	right: 15%;
+	color: white;
+}
+
+.search input {
+	background-color: inherit;
+	outline: none;
+	border: 1px solid white;
+	color: white;
+}
+
+.margins {
+	margin: 20% !important;
+}
+
+.container h3 {
+	font-size: 32px;
+}
+.container p {
+	font-size: 25px;
+}
